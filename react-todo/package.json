@@ -1,7 +1,7 @@
 {
   "name": "react-todo",
   "private": true,
-  "homepage": "https://repo-anuj.github.io/react_mini_project/tree/main/react-todo",
+  "homepage": "https://repo-anuj.github.io/react-todo/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
